@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mo! @utechs
 - 👀 I’m interested in **learning new things & shared knowladge with others**.
-- 🌱 I’m currently learning **Agile and Docker**
+- 🌱 I’m currently learning **Docker**
 - 💞️ I’m looking to collaborate on **open source projects**
 - 📫 How to reach me **mhd.murad.28@gmail.com**
 
